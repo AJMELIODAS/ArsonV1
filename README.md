@@ -11,3 +11,7 @@ Arson should be able to do the following things :
 9. Make calls
 10. Automate File System
 11. Should be able to connect to my phone
+
+
+## Additional-Information/Thoughts
+1. Using MongoDB as data base to begain with
